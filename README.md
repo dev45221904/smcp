@@ -1,4 +1,6 @@
-# SMCP — Smart City Complaint Portal
+# Schutzstaffel Complaint Portal
+
+![SMCP Logo](LOGO/Logo.png)
 
 A MERN stack web app for citizens to register and track complaints for smart city services.
 
