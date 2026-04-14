@@ -7,10 +7,15 @@ MongoDB · Express.js · React · Node.js
 
 ## Getting started
 ```bash
-git clone https://github.com/your-username/smcp.git
+git clone https://github.com/dev45221904/smcp.git
 cd smcp
-npm install
-npm run dev
+    // For backend
+        cd server
+        npm install
+        npm run dev
+    // for front-end
+        npm install
+        npm run dev
 ```
 
 ## Features
